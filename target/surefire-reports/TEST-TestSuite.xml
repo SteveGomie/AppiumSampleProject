@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="31.208" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="Appium Practice Project"/>
+    <property name="PWD" value="/Users/stevangomes/Documents/StevanOffice/Jar_Files"/>
+    <property name="localRepository" value="/Users/stevangomes/.m2/repository"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/Users/stevangomes/.jenkins"/>
+    <property name="PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/bin:/usr/local/mysql/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/stevangomes/Documents/Development-Tools/android-sdk-macosx/platform-tools:/Users/stevangomes/Documents/Development-Tools/android-sdk-macosx/tools:/Users/stevangomes/Documents/Development-Tools/android-sdk-macosx/build-tools:/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-ant-1.9.7/bin:/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9/bin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="d5f4a19d66d3ea2e"/>
+    <property name="POM_ARTIFACTID" value="forresterproject"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="TERM_PROGRAM" value="Apple_Terminal"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="TERM_SESSION_ID" value="3EF3D96A-C732-46AA-929E-A534BBB29BDE"/>
+    <property name="surefire.suiteXmlFiles" value="src/test/resources/testng.xml"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="forresterproject"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="1.8.0_60-b27"/>
+    <property name="ANT_HOME" value="/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-ant-1.9.7"/>
+    <property name="NODE" value="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/stevangomes/Documents/Development-Tools/android-sdk-macosx/platform-tools:/Users/stevangomes/Documents/Development-Tools/android-sdk-macosx/tools:/Users/stevangomes/Documents/Development-Tools/android-sdk-macosx/build-tools:/usr/local/bin"/>
+    <property name="JAVA_MAIN_CLASS_68024" value="Main"/>
+    <property name="user.name" value="stevangomes"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="BUILD_DISPLAY_NAME" value="#13"/>
+    <property name="TMPDIR" value="/var/folders/fz/txbyqp7x23scx0k5w3xy90pm0000gn/T/"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib"/>
+    <property name="java.version" value="1.8.0_60"/>
+    <property name="XPC_FLAGS" value="0x0"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="TERM" value="xterm-256color"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="13"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="MVN_HOME" value="/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="ANDROID_AVD_HOME" value="/Users/stevangomes/.android/avd"/>
+    <property name="os.version" value="10.11.6"/>
+    <property name="POM_VERSION" value="1.0-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.60-b23"/>
+    <property name="SHLVL" value="1"/>
+    <property name="_" value="/usr/bin/java"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="LOGNAME" value="stevangomes"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="HOME" value="/Users/stevangomes"/>
+    <property name="POM_GROUPID" value="com.forrester.test"/>
+    <property name="user.home" value="/Users/stevangomes"/>
+    <property name="BUILD_TAG" value="jenkins-Appium Practice Project-13"/>
+    <property name="JENKINS_SERVER_COOKIE" value="d5f4a19d66d3ea2e"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="XPC_SERVICE_NAME" value="0"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="/Users/stevangomes/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="Apple_PubSub_Socket_Render" value="/private/tmp/com.apple.launchd.wRd0wdm2bO/Render"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9"/>
+    <property name="java.class.path" value="/Users/stevangomes/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven31-agent-1.5.jar:/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar:/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main /Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9 /Users/stevangomes/.jenkins/war/WEB-INF/lib/remoting-2.53.2.jar /Users/stevangomes/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven31-interceptor-1.5.jar /Users/stevangomes/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.5.jar 60863"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9"/>
+    <property name="surefire.test.class.path" value="/Users/stevangomes/Documents/todaytest/forresterproject/target/test-classes:/Users/stevangomes/Documents/todaytest/forresterproject/target/classes:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-java/2.52.0/selenium-java-2.52.0.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/2.52.0/selenium-chrome-driver-2.52.0.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.52.0/selenium-remote-driver-2.52.0.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-api/2.52.0/selenium-api-2.52.0.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/2.52.0/selenium-edge-driver-2.52.0.jar:/Users/stevangomes/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar:/Users/stevangomes/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-htmlunit-driver/2.52.0/selenium-htmlunit-driver-2.52.0.jar:/Users/stevangomes/.m2/repository/net/sourceforge/htmlunit/htmlunit/2.18/htmlunit-2.18.jar:/Users/stevangomes/.m2/repository/xalan/xalan/2.7.2/xalan-2.7.2.jar:/Users/stevangomes/.m2/repository/xalan/serializer/2.7.2/serializer-2.7.2.jar:/Users/stevangomes/.m2/repository/org/apache/httpcomponents/httpmime/4.5/httpmime-4.5.jar:/Users/stevangomes/.m2/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.17/htmlunit-core-js-2.17.jar:/Users/stevangomes/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar:/Users/stevangomes/.m2/repository/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.jar:/Users/stevangomes/.m2/repository/net/sourceforge/nekohtml/nekohtml/1.9.22/nekohtml-1.9.22.jar:/Users/stevangomes/.m2/repository/net/sourceforge/cssparser/cssparser/0.9.16/cssparser-0.9.16.jar:/Users/stevangomes/.m2/repository/org/w3c/css/sac/1.3/sac-1.3.jar:/Users/stevangomes/.m2/repository/org/eclipse/jetty/websocket/websocket-client/9.2.12.v20150709/websocket-client-9.2.12.v20150709.jar:/Users/stevangomes/.m2/repository/org/eclipse/jetty/jetty-util/9.2.12.v20150709/jetty-util-9.2.12.v20150709.jar:/Users/stevangomes/.m2/repository/org/eclipse/jetty/jetty-io/9.2.12.v20150709/jetty-io-9.2.12.v20150709.jar:/Users/stevangomes/.m2/repository/org/eclipse/jetty/websocket/websocket-common/9.2.12.v20150709/websocket-common-9.2.12.v20150709.jar:/Users/stevangomes/.m2/repository/org/eclipse/jetty/websocket/websocket-api/9.2.12.v20150709/websocket-api-9.2.12.v20150709.jar:/Users/stevangomes/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/2.52.0/selenium-firefox-driver-2.52.0.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/2.52.0/selenium-ie-driver-2.52.0.jar:/Users/stevangomes/.m2/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar:/Users/stevangomes/.m2/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/2.52.0/selenium-safari-driver-2.52.0.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-support/2.52.0/selenium-support-2.52.0.jar:/Users/stevangomes/.m2/repository/org/webbitserver/webbit/0.4.14/webbit-0.4.14.jar:/Users/stevangomes/.m2/repository/io/netty/netty/3.5.2.Final/netty-3.5.2.Final.jar:/Users/stevangomes/.m2/repository/org/seleniumhq/selenium/selenium-leg-rc/2.52.0/selenium-leg-rc-2.52.0.jar:/Users/stevangomes/.m2/repository/org/testng/testng/6.9.10/testng-6.9.10.jar:/Users/stevangomes/.m2/repository/com/beust/jcommander/1.48/jcommander-1.48.jar:/Users/stevangomes/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/Users/stevangomes/.m2/repository/io/appium/java-client/4.1.2/java-client-4.1.2.jar:/Users/stevangomes/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/stevangomes/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/stevangomes/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/stevangomes/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/stevangomes/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/stevangomes/.m2/repository/commons-validator/commons-validator/1.5.1/commons-validator-1.5.1.jar:/Users/stevangomes/.m2/repository/commons-beanutils/commons-beanutils/1.9.2/commons-beanutils-1.9.2.jar:/Users/stevangomes/.m2/repository/commons-digester/commons-digester/1.8.1/commons-digester-1.8.1.jar:/Users/stevangomes/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/stevangomes/.m2/repository/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar:/Users/stevangomes/.m2/repository/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.jar:/Users/stevangomes/.m2/repository/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.jar:/Users/stevangomes/.m2/repository/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.jar:/Users/stevangomes/.m2/repository/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar:/Users/stevangomes/.m2/repository/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.jar:/Users/stevangomes/.m2/repository/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar:/Users/stevangomes/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar:/Users/stevangomes/.m2/repository/org/apache/maven/surefire/surefire-testng-utils/2.18.1/surefire-testng-utils-2.18.1.jar:/Users/stevangomes/.m2/repository/org/apache/maven/surefire/surefire-grouper/2.18.1/surefire-grouper-2.18.1.jar:"/>
+    <property name="java.io.tmpdir" value="/var/folders/fz/txbyqp7x23scx0k5w3xy90pm0000gn/T/"/>
+    <property name="HUDSON_HOME" value="/Users/stevangomes/.jenkins"/>
+    <property name="PATH+MAVEN" value="/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9/bin"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Appium%20Practice%20Project/13/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="OLDPWD" value="/Users/stevangomes"/>
+    <property name="SSH_AUTH_SOCK" value="/private/tmp/com.apple.launchd.Elrujkw3go/Listeners"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.ext.dirs" value="/Users/stevangomes/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="__CF_USER_TEXT_ENCODING" value="0x1F5:0x0:0x0"/>
+    <property name="user.dir" value="/Users/stevangomes/Documents/todaytest/forresterproject"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Appium%20Practice%20Project/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="/Users/stevangomes/Documents/StevanOffice/Jar_Files/apache-maven-3.3.9"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="13"/>
+    <property name="ANDROID_HOME" value="/Users/stevangomes/Documents/Development-Tools/android-sdk-macosx"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="TERM_PROGRAM_VERSION" value="361.1"/>
+    <property name="basedir" value="/Users/stevangomes/Documents/todaytest/forresterproject"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="maven3.interceptor" value="/Users/stevangomes/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven31-interceptor-1.5.jar"/>
+    <property name="WORKSPACE" value="/Users/stevangomes/.jenkins/jobs/Appium Practice Project/workspace"/>
+    <property name="maven3.interceptor.common" value="/Users/stevangomes/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.5.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="USER" value="stevangomes"/>
+  </properties>
+  <testcase name="action" classname="com.forrester.test.navigation" time="31.208"/>
+</testsuite>

@@ -1,0 +1,1 @@
+/usr/local/bin/node /usr/local/lib/node_modules/appium/build/lib/main.js --address 127.0.0.1 --bootstrap-port 4723 --no-reset --local-timezone
